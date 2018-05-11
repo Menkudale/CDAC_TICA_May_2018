@@ -36,14 +36,5 @@ public class Triangle extends Shape {
 	public int hashCode() {
 		return (int) this.area;
 	}
-	
-	@Override
-	public boolean equals(Object obj) {
-		Triangle t = (Triangle)obj;
-		if(t.base == this.base && t.height == this.height){
-			return true;
-		}
-		return false;
-	}
 
 }

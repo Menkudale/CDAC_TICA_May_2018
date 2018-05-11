@@ -17,15 +17,9 @@ public class HashSetDemo {
 		hs.add(new Triangle(2, 8));
 		hs.add(new Triangle(4, 4));
 
-		System.out.println(hs.size());
-
-		hs.add(new Triangle(4, 4));
-
-		System.out.println(hs.size());
-
-		// for (Triangle t : hs) {
-		// System.out.println(t.hashCode());
-		// }
+		for (Triangle t : hs) {
+			System.out.println(t.hashCode());
+		}
 	}
 
 }

@@ -28,7 +28,7 @@ public class TreeSetDemo {
 		tr.add(new Triangle(4, 4));
 		
 		
-		System.out.println(tr.contains(new Triangle(2, 8)));
+		
 		
 
 //		System.out.println(tr.size());

@@ -26,16 +26,12 @@ public class TreeSetDemo {
 		tr.add(new Triangle(6, 7));
 		tr.add(new Triangle(2, 8));
 		tr.add(new Triangle(4, 4));
-		
-		
-		System.out.println(tr.contains(new Triangle(2, 8)));
-		
 
-//		System.out.println(tr.size());
-//
-//		for (Triangle r : tr) {
-//			System.out.println(r.getArea());
-//		}
+		System.out.println(tr.size());
+
+		for (Triangle r : tr) {
+			System.out.println(r.getArea());
+		}
 
 		// tr.add("a");
 		// tr.add("r");

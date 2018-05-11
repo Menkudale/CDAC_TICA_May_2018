@@ -43,7 +43,7 @@ public class Triangle extends Shape {
 		if(t.base == this.base && t.height == this.height){
 			return true;
 		}
-		return false;
+		return super.equals(obj);
 	}
 
 }
