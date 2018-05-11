@@ -1,0 +1,14 @@
+package demo;
+
+public class DemoEquals {
+
+	public static void main(String[] args) {
+		Rectangle r1 = new Rectangle(2, 24);
+
+		Rectangle r2 = new Rectangle(6, 7);
+
+		System.out.println(r1.equals(r2));
+
+	}
+
+}

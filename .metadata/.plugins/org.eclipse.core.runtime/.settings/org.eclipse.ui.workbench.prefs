@@ -1,0 +1,10 @@
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.jdt.ui.presentation
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.ui.workbench.texteditor.blockSelectionModeFont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Courier New|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
+org.eclipse.jdt.ui.editors.textfont=1|Courier New|20.0|0|WINDOWS|1|-40|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
+org.eclipse.jdt.ui.javadocfont=1|Segoe UI|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI;
+org.eclipse.jface.textfont=1|Courier New|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
+org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Courier New|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;
+terminal.views.view.font.definition=1|Courier New|18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|0|3|2|1|49|Courier New;

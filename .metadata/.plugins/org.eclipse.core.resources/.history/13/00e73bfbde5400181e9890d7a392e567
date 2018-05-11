@@ -1,0 +1,16 @@
+package demo;
+
+public class DemoEquals {
+
+	public static void main(String[] args) {
+		Rectangle r1 = new Rectangle(2, 21);
+
+		Rectangle r2 = new Rectangle(6, 21);
+		
+		Circle c = new Circle(2);
+
+		System.out.println(c);
+
+	}
+
+}

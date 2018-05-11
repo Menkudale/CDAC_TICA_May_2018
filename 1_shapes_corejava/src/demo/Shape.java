@@ -21,4 +21,15 @@ public abstract class Shape {
 		}
 	}
 
+	@Override
+	public boolean equals(Object obj) {
+		Shape s = (Shape) obj;
+
+		if (this.area == s.area) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
 }
